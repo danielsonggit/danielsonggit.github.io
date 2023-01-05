@@ -1,0 +1,16 @@
+{
+{
+	    "plugins": [ 
+		            "expandable-chapters"
+			        ]
+},
+{
+	    "links": {
+		            "sidebar": {
+				                "本书github站点": "https://github.com/chenguo-design/Elysia"
+						        }
+							    },
+}
+}
+
+
